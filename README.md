@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Pong Game (Java)
 
 A classic **two-player Pong game** built from scratch using **Java Swing**.
@@ -63,6 +62,8 @@ The game includes audio feedback for:
 
 All audio files are stored as `.wav`.
 
+You can use this or replace your own audio.
+
 ---
 
 ## 📸 Screenshots
@@ -102,7 +103,6 @@ PongGame/
 ├── screenshots/
 │
 ├── PongGame.jar
-├── PongGame.exe
 └── README.md
 ```
 
