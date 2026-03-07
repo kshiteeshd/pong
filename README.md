@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pong Game (Java)
 
 A classic **two-player Pong game** built from scratch using **Java Swing**.
@@ -164,3 +165,7 @@ This project is open-source and free to use for learning purposes.
 ## 👤 Author
 
 Created by **[Your Name]**
+=======
+# pong
+A Classic Game of Pong 
+>>>>>>> 546de4b76bb34fc7fdbdfc09e7b0ef821dc3d2e8
