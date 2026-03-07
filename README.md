@@ -164,8 +164,8 @@ This project is open-source and free to use for learning purposes.
 
 ## 👤 Author
 
-Created by **[Your Name]**
-=======
+# Created by **Kshiteesh Desai**
+
 # pong
-A Classic Game of Pong 
->>>>>>> 546de4b76bb34fc7fdbdfc09e7b0ef821dc3d2e8
+
+A Classic Game of Pong
